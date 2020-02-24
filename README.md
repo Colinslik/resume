@@ -26,28 +26,27 @@ ___
 
 # *Education*
 
-Master of Electronics Engineering, Electronic Design Automation, Graduate Institute of Electronics Engineering, National Taiwan University, Taiwan.      Sep 2011 - Sep 2013 
-Thesis: The Lump Element Values Extraction From Layout of Microwave Multi-Layer Circuits
-Project:
-1.	MIPS CPU emulator (MIPS emulator with test bench)
--- Complete a MIPS emulator and a random mouse algorithm to test the emulator .
-2.	Message tracker (A keyword search engine for twitter)
--- A simple search engine which include a web crawler and a command line interface. User can get the
-messages on twitter through the keyword, like ID number, nickname or posting time.
-3.	Software 3D Graphics Pipeline (A lightweight rendering pipeline)
--- Complete a 3D graphics software including transformation, lighting, and texture mapping function 
-without any ready-made software package
+> ### Master of Electronics Engineering, Electronic Design Automation, Graduate Institute of Electronics Engineering, National Taiwan University, Taiwan. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2011 - Sep 2013 
+>> + ### Thesis: 
+>>>   + ### The Lump Element Values Extraction From Layout of Microwave Multi-Layer Circuits
+>> + ### Project:
+>>> ### 1.	MIPS CPU emulator (MIPS emulator with test bench)
+>>>   + ### Complete a MIPS emulator and a random mouse algorithm to test the emulator .
+>>> ### 2.	Message tracker (A keyword search engine for twitter)
+>>>   + ### A simple search engine which include a web crawler and a command line interface. User can get the messages on twitter through the keyword, like ID number, nickname or posting time.
+>>> ### 3.	Software 3D Graphics Pipeline (A lightweight rendering pipeline)
+>>>   + ### Complete a 3D graphics software including transformation, lighting, and texture mapping function without any ready-made software package
 ---
-Bachelor of Electronic Engineering, Department of Electronic Engineering, National Cheng Kung University, Taiwan.                             Sep 2006 - Sep 2011
-Project:
-1.	Karnaugh map simplification tool
--- A tool can get sequence of true in K map and output all prime implicant and essential prime implicant in a file.
-2.	Logic gate layout generator
--- This tool can simplify and create a possible layout in a bitmap according to the given logical expression (e.g., !(A+B)*(A+C)).
-3.	Spend the least time to play all amusement rides ! (a shortest path algorithm)
--- The program use dynamic programming to calculate the least time to travel all amusement rides, which have different queueing time and many unable to passing barrier in a bitmap.
-4.	Battle in Blokus! (a machine-machine game)
--- This is a client to be a blokus player. It must connect to a judge server and duel with other clients. The server show the winner or loser according to each algorithm.
+> ### Bachelor of Electronic Engineering, Department of Electronic Engineering, National Cheng Kung University, Taiwan.                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2006 - Sep 2011
+>> + ### Project:
+>>> ### 1.	Karnaugh map simplification tool
+>>>   + ### A tool can get sequence of true in K map and output all prime implicant and essential prime implicant in a file.
+>>> ### 2.	Logic gate layout generator
+>>>   + ### This tool can simplify and create a possible layout in a bitmap according to the given logical expression (e.g., !(A+B)*(A+C)).
+>>> ### 3.	Spend the least time to play all amusement rides ! (a shortest path algorithm)
+>>>   + ### The program use dynamic programming to calculate the least time to travel all amusement rides, which have different queueing time and many unable to passing barrier in a bitmap.
+>>> ### 4.	Battle in Blokus! (a machine-machine game)
+>>>   + ### This is a client to be a blokus player. It must connect to a judge server and duel with other clients. The server show the winner or loser according to each algorithm.
 ___
 
 # *Skills*
